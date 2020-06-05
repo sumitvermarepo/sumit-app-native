@@ -5,15 +5,15 @@ import "firebase/auth";
 import "firebase/storage";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyADt6Cun3Zn4B-5s1nJHQx7UKJCDKjyHnI",
-  authDomain: "steward-d89fe.firebaseapp.com",
-  databaseURL: "https://steward-d89fe.firebaseio.com",
-  projectId: "steward-d89fe",
-  storageBucket: "steward-d89fe.appspot.com",
-  messagingSenderId: "169115731242",
-  appId: "1:169115731242:web:ecbd15bc4fa93c69180a53",
-  measurementId: "G-S6NFJYKVM2",
-};
+    apiKey: "AIzaSyBe0og6X-o8bikmHn5QXOUow5wCu5FUO3Q",
+    authDomain: "web-chat-app-7ead6.firebaseapp.com",
+    databaseURL: "https://web-chat-app-7ead6.firebaseio.com",
+    projectId: "web-chat-app-7ead6",
+    storageBucket: "web-chat-app-7ead6.appspot.com",
+    messagingSenderId: "148064658063",
+    appId: "1:148064658063:web:951ab520a8e0ceec8a06fa",
+    measurementId: "G-5N7C6W6SNC"
+  };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
 
